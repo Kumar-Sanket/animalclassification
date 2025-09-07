@@ -7,6 +7,8 @@ Built in Google Colab using PyTorch and a MobileNetV2 backbone.
 
 📂 Dataset
 
+Located: https://drive.google.com/drive/folders/1ZAbzTKC4jMhxzCYxRSfduQrDUcC0ewol?usp=sharing
+
 Contains 15 class folders (Dog, Cat, Tiger, etc.).
 
 Auto-splits into train (70%) / val (15%) / test (15%) if not already split.
